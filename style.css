@@ -10,8 +10,14 @@
     
     
 }
-div img{
+.Header-container{
+    width: 110%;
+  
+
+}
+.Header-container img{
     width: 90%;
+    
 }
 .color-section{
     color:chocolate
